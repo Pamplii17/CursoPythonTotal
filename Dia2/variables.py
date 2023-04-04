@@ -20,6 +20,6 @@ print(nombre)
 
 #Se pueden concatenar variables NOTA: no se puede concatenar un tipo string con un int o viceversa
 nombre = "Hola "
-nombre2 = " Javier"
+nombre2 = "Javier"
 frase = nombre + nombre2
 print(frase)
