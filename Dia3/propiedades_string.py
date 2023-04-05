@@ -22,6 +22,7 @@ print(poema)
 
 #Se puede comprobar la existencia de caracteres de un string, devuelve True o False en funcion de si esta o no
 print("agua" in poema)
+print("agua" not in poema)#Verifica si no se encuentra dentro del string
 
 #Se puede saber la longitud de un string con len()
 print(len(poema))
